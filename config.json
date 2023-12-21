@@ -1,10 +1,18 @@
 {
-    "title":"Meekdai",
-    "displayTitle":"eekdai",
+    "title":"langvs",
+    "displayTitle":"langvs",
     "subTitle":"童话是一种生活态度，仅此而已。",
-    "homeUrl":"https://blog.meekdai.com",
+    "homeUrl":"https://www.ruk.cc",
     "avatarUrl":"https://meekdai.com/avatar.svg",
     "faviconUrl":"https://meekdai.com/favicon.svg",
-    "singlePage":[],
-    "GMEEK_VERSION":"last"
+    "singlePage":["link","about"],
+    "email":"langvs@zangb.com",
+    "startSite":"12/21/2023",
+    "filingNum":"无",
+    "onePageListNum":15,
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "nightTheme":"dark_colorblind",
+    "GMEEK_VERSION":"main"
 }
